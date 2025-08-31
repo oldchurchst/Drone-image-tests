@@ -1,0 +1,5 @@
+You are a python expert. I would like to build an application in python that analysis's a series of images that were captured by a DJI drone and use those images to find the flightpath of the drone by comparing the images with google maps or other online aerial image sources. 
+The application should use AI to achieve this. 
+Do not use the meta data of the images. Use only the image data.
+Give an option to identify the location of the first image. This will help narrow down where in the world the drone is and should help simplify the problem. 
+There is an open source project called OpenCV that may be helpful.
